@@ -74,9 +74,9 @@ The dataset includes:
 
 ## 📊 Power BI Dashboard
 The report includes:
-- Overview Dashboard  
-- Batting Analysis  
-- Bowling Analysis  
+ 
+- Batting Team Analysis  
+- Bowling Team Analysis  
 
 ---
 
